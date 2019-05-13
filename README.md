@@ -14,3 +14,5 @@ Episode 801  AvgScore:  200.04  Eps: 0.0180  Time: 2.0s /  424 steps  LANDED
 Environment solved in 801 episodes!     Average Score: 200.04
 
 ```
+
+![scores](https://github.com/andreidi/DDQN_LunarLander/blob/master/solved_801.png)
